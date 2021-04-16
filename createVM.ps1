@@ -5,9 +5,9 @@
 # Version 1.0
 #
 # Specify vCenter Server, vCenter Server username and vCenter Server user password
-$vCenter="10.42.50.40"
+$vCenter=""
 $vCenterUser="administrator@vsphere.local"
-$vCenterUserPassword="techXmen2021!"
+$vCenterUserPassword=""
 #
 # Specify number of VMs you want to create
 $vm_count = "65"
